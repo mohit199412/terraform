@@ -1,5 +1,5 @@
 resource "google_compute_instance" "default"{
-  name="test-instance"
+  name="test-instance1"
   machine_type= "f1-micro"
   zone ="us-central1-a"
   boot_disk {
@@ -13,3 +13,7 @@ network_interface{
 	access_config{}
 }
 }
+
+  
+  
+
