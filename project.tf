@@ -1,6 +1,6 @@
 provider "google" {
   credentials = "/home/terraform/key/key.json"
-  region      = "asia-south2"
+  region      = "us-central1"
   project     ="spring-banner-353911"
 }
 
