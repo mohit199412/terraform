@@ -13,7 +13,3 @@ network_interface{
 	access_config{}
 }
 }
-
-  
-  
-
